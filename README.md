@@ -46,4 +46,4 @@ This project is created for learning and portfolio purposes to demonstrate data 
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Screenshot 2026-02-25 160050.png)
