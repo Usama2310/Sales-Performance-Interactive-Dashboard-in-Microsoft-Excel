@@ -46,4 +46,4 @@ This project is created for learning and portfolio purposes to demonstrate data 
 
 ## Dashboard Preview
 
-![Dashboard Preview](Screenshot 2026-02-25 160050.png)
+![Dashboard Preview](https://github.com/Usama2310/Sales-Performance-Interactive-Dashboard-in-Microsoft-Excel/blob/main/Screenshot%202026-02-25%20160050.png)
